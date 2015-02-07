@@ -7,7 +7,8 @@
     }
      
     print_r($arr);
-     
+    
+    //Assume first item of the array is minimum and maximum
     $min = $max = $arr[0];
      
     for($j=1;$j<100;$j++){
