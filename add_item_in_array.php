@@ -6,5 +6,5 @@
      
     $nums[] = 9;
      
-    //After addin a new element
+    //After adding a new element
     print_r($nums);
